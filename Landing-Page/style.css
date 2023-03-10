@@ -1,0 +1,135 @@
+*{
+    background-color: lavender;
+    font-family: 'Playfair Display', serif;
+}
+header{
+    background-color: darkmagenta;
+    padding-bottom: 3rem;
+}
+
+.titulo{
+    color: plum;
+    background-color: darkmagenta;
+}
+
+.titulo-destaque{
+        background-color: mediumpurple;
+}
+
+.img-topo{
+    width: 300px;
+    height: 300px;
+}
+
+.div1{
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+
+h2{
+    background-color: darkmagenta;
+    color: white;
+    padding: 22px 22px;
+    font-size: 50px;
+}
+
+img{
+    border-radius: 10px;
+}
+
+.img2{
+    width: 500px;
+    height: 400px;
+    padding: 7px;
+}
+
+.titulo-contexto{
+    background-color: mediumpurple;
+}
+
+.texto-contexto{
+    background-color: mediumpurple ;
+    border-radius: 10px;
+    padding: 4rem;
+
+}
+
+.contexto{
+    padding: 5px;
+}
+
+.titulo-feito{
+    background-color: mediumpurple;
+
+}
+
+.mulher1, .mulher2, .mulher3{
+    width: 350px;
+    height: 400px;
+
+}
+
+.bloco1{
+    justify-content: center;
+    align-items: center;
+    background-color: darkmagenta;
+    padding: 3rem;
+}
+
+.subtexto{
+    font-size: 40px;
+    color: white;
+    background-color: darkmagenta;
+}
+
+.links{
+    text-decoration: none;
+    background-color: darkmagenta;
+    color: white;
+    padding: 1rem;
+    font-size: 20px;
+}
+
+.a-links{
+    background-color: darkmagenta;
+
+}
+
+.conteudo-feito{
+    padding: 15px;
+}
+
+.div1{
+    padding: 5px;
+}
+
+.texto2{
+    padding: 5px;
+}
+
+.titulo-legado{
+    background-color: mediumpurple;
+}
+
+article{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.legado{
+    padding: 5px;
+}
+
+footer p{
+    background-color: darkmagenta;
+    height: 40px;
+    margin: auto;
+
+}
+
+.rodape{
+    color: white;
+    padding-top: 7px;
+}
+
+
